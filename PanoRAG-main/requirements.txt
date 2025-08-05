@@ -1,0 +1,32 @@
+accelerate
+aioboto3
+aiohttp
+
+# database packages
+graspologic
+hnswlib
+nano-vectordb
+neo4j
+networkx
+ollama
+openai
+oracledb
+pymongo
+pymysql
+pyvis
+sqlalchemy
+tenacity
+
+# LLM packages
+tiktoken
+torch
+transformers
+xxhash
+
+# optional modules
+pydantic
+python-dotenv
+gensim
+pandas
+xlsxwriter
+pipmaster
